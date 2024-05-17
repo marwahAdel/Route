@@ -1,0 +1,23 @@
+@font-face {
+    font-family:"website_font" ;
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+
+h1 {
+    font-size: 80px;
+    font-family: "website_font";
+}
+p {
+    font-size: 35px;
+}
+.btn-shape{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+.btn-shape:hover{
+    background-color:green;
+ 
+}
